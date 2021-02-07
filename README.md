@@ -1,1 +1,1 @@
-# trading-mindset
+# trading-mindset:
