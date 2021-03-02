@@ -28,14 +28,14 @@ Sebelum kita masuk ke trading Derivatif forex , commodity , dan finansial maka p
 Leverage sesuai artinya adalah daya ungkit dimana dengan sesuatu yg kecil kita dapat mengangkat barang yang besar. Contohnya dongkrak. Dalam trading leverage terkait dengan modal yang kita pakai untuk mentransaksikan sebuah kontrak yang nilainya sangat besar. Contoh leverage 1 : 100 Forex kita memakai uang 1000 untuk membeli 100.000. Dengan adanya leverage ini menyebabkan keuntungan dan kerugian dalam derivatif terkesan besar dan yg membuat besar itu adalah karena mayoritas modal yg digunakan kecil. Bagi yg tidak paham leverage akan mengatakan resiko besar uang saya habis padahal uang yg diinvestasikan kebanyakan mmg jauh dari value transaksinya. Ibarat modal 10.000.000 bayar DP apt yg harganya 1M . Kalau harga apt turun jadi 990.000.000 ya uang kita yg 10.000.000 habis buat bayar rugi apt tsb. Sedangkan penurunan aptnya sendiri tidak besar besar amat. Sebagian yg sdh lama sy yakin paham tapi tidak sedikit saya temukan trader / investor yg tidak paham sehingga menganggap bisnis derivatif resikonya besar. Padahal leverage ini lah yg membuat terasa besar. Atas dasar prinsip leverage ini maka peluang keuntungan juga sangat besar.
 
 
-* **4-Trading Plan:**  
+* **5-Trading Plan:**  
 Kenapa dalam Trading kita membutuhkan Trading Plan / Rencana ? Alasannya karena kita adalah manusia , dan manusia itu tempatnya lupa , tidak teliti , serakah, Galau , takut dll. Ingat trading adalah pengambilan keputusan. Mengambil keputusan untuk buy sell stop loss take profit cover wait and see itulah keputusan yang akan diambil oleh trader/ investor. Keputusan diambil berdasarkan kondisi market. Mata kita saat melihat market lalu mengirim pesan kepada otak untuk otak mengambil keputusan. Dan proses itu memerlukan waktu. Dalam trading sometime pergerakan harga lebih cepat dari proses tersebut. Contoh harga sedang naik kita berfikir untuk cutloss saat mau action harga sudah turun kemudian tidak jadi dan seterusnya dan seterusnya yg sejenis. Oleh karena itu maka trading plan menjadi penting. Sebelum harga terjadi kita sdh tau apa yg mau dilakukan.
 
-* **5-Tambang Digital:**  
+* **6-Tambang Digital:**  
 Perdagangan Derivatif Forex , Gold , Index dkk bisa diibaratkan sebuah tambang namun kita tidak perlu memiliki tanah: Seperti tambang didalam market ada sejumlah uang dalam jumlah besar yang bisa  terus kita gali. Artinya Potensi yang ada didalamnya besar sama seperti sebuah tambang. Namun untuk menggali sebuah tambang tentu tidak gratis anda harus mahir , memiliki peralatan , memiliki pengalaman dan modal uang. Sedangkan di market Derivatif kita tidak perlu sebanyak itu. Yang kita butuhkan terbesar adalah Modal dari Tuhan. " OTAK" . Semoga makna filosofisnya bisa diterima. Tetap semangat.
 
 
-* **6-Trading Robot:**  
+* **7-Trading Robot:**  
 Apakah trading robot ? Trading robot adalah sebuah software yang ditanamkan ke dalam suatu platform dengan perintah action trading otomatis berdasarkan algoritma tertentu yg didesign oleh pembuatnya. Apakah robot membantu ? Iya dari aspek memudahkan kita dan mengurangi resiko lupa dan semua kelemahan manusia namanya juga Robot. Tapi apakah Robot pasti membuat kita sukses ? Belum tentu. Apa alasannya ? Sederhana, 
 
 -Robot hanya bekerja berdasarkan algorithma teknis yang dibuat oleh manusia sedangkan gerakan harga dipasar dipengaruhi oleh banyak faktor dalam hal ini faktor fundamental yg tentunya tidak mampu di baca oleh si Robot. 
@@ -47,12 +47,12 @@ Apakah trading robot ? Trading robot adalah sebuah software yang ditanamkan ke d
 Pada prinsipnya tidak ada yg salah dengan robot tapi pemahaman bahwa robot pasti akan lebih baik atau akan menjadikan kita trader / investor sesuai yg kita harapkan akan terwujud blm tentu. Dengan tanpa bermaksud mendeskriditkan sebuah kreatifitas teknologi saya berharap teman2 dapat menangkap substansinya. 
 Saya tergelitik menulis ini karena banyak sekali saya lihat orang yg terjebak dengan pemahaman robot trading ini bahkan tidak sedikit yg Margin Call. 
 
-* **7-Kesalahan trader terhadap indikator:**  
+* **8-Kesalahan trader terhadap indikator:**  
 Salah satu kesalahan Trader / Investor adalah terus mencari indikator yang sempurna ( secara tidak sadar ) setiap kali sebuah indikator salah walaupun 2 atau 3 kali sebelumnya benar tidak akan membuat mereka puas. Mereka akan terus mencari mencoba mencari dan mencoba . Mencari suhu atau master atau apapun sebutannya yang dianggap dpt membocorkan indikatornya. Pada akhirnya pencarian ini akan berakhir dengan keputusasaan krn diterjang badai Margin Call ( semoga anda tidak ). Percayalah bahwa indikator sempurna itu tidak pernah ada paling tidak hingga hari ini. Kenapa ? Bayangkan market derivatif sdh ada sejak kpn ? Dan pasti sudah melahirkan orang pandai dalam trading knp tdk melahirkan orang terkaya nomor satu dr sana padahal gerakan forex / derivatif jika benar terus bisa menghasilkan berapa dlm satu hari. Betul ? 
 Semua indikator sdh di test oleh penciptanya dan semua memiliki akurasinya masing2. Pilihlah beberapa yg anda nyaman itu sdh cukup. 
 Kenapa ? Ingat market ini hanya 50 : 50 yg bikin susah itu kita.
 
-* **8-ter Emas XAUUSD-> Gold Spot:**
+* **9-ter Emas XAUUSD-> Gold Spot:**
 
 -Emas adalah salah satu underlying yang dijadikan oleh seluruh negara sebagai cadangan devisa karena sewaktu2 bisa dijual.
 
@@ -73,7 +73,7 @@ Dari tiga karakter tersebut maka dapat kita buat kesimpulan bahwa Emas akan dili
 Dan satu hal juga yg saya yakin luput dari pemantauan trader/investor adalah bahwa 2019 terutama kuartal terakhir pasar saham terutama wallstreet menunjukkan kenaikan yg cukup besar maka banyak pelaku akan meliquid saham ambil untungnya untuk berpindah keemas dan ini juga salah satu alasan yg membuat emas strong Bullish. 
 
 
-* **9-Kerugian dalam trading seperti sebuah luka:** 
+* **10-Kerugian dalam trading seperti sebuah luka:** 
 
 Luka yang kecil membutuhkan obat yg sedikit luka yg besar membutuhkan obat yang besar. 
 Contoh sederhana adalah jika kita loss 40 pips maka kita butuh profit 40+ pips untuk menutupi . Apabila kita rugi 100 pips maka kita butuh 100+ pips untuk menutup kerugian tersebut. Maka pertanyaannya lebih gampang kita cari 40 pips atau 100 pips ? Mmg kadang kadang ini gampang dibicarakan sulit di laksanakan .
@@ -84,7 +84,7 @@ Berapakah stop loss yg ideal ? Bagi saya stop loss maksimum yg ideal adalah :
 Alasannya : jika itu terjadi besok saya selalu memiliki peluang untuk menutupnya. 
 
 
-*  **10-Inkonsistensi:**
+*  **11-Inkonsistensi:**
 
 Trader memiliki kebiasaan memperhatikan chart apalagi setelah OP. Akibat dari memperhatikan chart tersebut kita terkadang akan tergoda untuk merubah titik TP / SL yang kita buat atau kadang juga membatalkannya. Kenapa ? Karena sebagai manusia kita memiliki sifat serakah,tidak mau rugi atau bahkan sebaliknya juga penakut. 
 TP di geser keatas krn harga terlihat kuat.
