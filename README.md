@@ -152,47 +152,47 @@ Jadi kesimpulan untuk hari ini adalah :
 -Market tidak akan memberi kemudahan lewat data. Disaat kita sangat yakin dgn data biasanya disitu agak berbahaya karena prinsip too good to be true tadi.
 -Jika anda merasa mental msh kurang kuat hindari trade saat news data akan lbh bijak.
 
-* Harga saham gabungan Nasdaq, S&P 500, Dow Jones, Nikkei, Hangseng-> Trading cari uang, bukan cari OP
+* **14-Perhatikan Harga saham gabungan Nasdaq, S&P500, Dow Jones, Nikkei, Hangseng-> Trading cari uang, bukan cari OP**
 
-* Profit Happy & Loss Sad-> Trader yang LEMAH!
+* **15-Profit Happy & Loss Sad-> Trader yang LEMAH!**
 
-* Locking / Hedging:
+* **16-Locking / Hedging:**
 
 Yang perlu di pahami adalah bahwa tindakan locking lbh banyak mudharat dari pada manfaat . Kenapa ? 
 
-1. Tindakan locking dan stoploss adalah sama dari aspek hitungan price movement jadi locking ataupun cutloss hasilnya sama pada saat cutloss di ganti stoploss dan open locking di ganti open posisi. 
-2. Dengan locking kita akan lbh sering menginap dan dana akan di sedot oleh swap
-3. Locking akan selalu merangsang orang untuk lbh dulu membuka posisi profit .
-4. Membongkar cara seperti itu cenderung akan memperlebar rugi atau locking di saat trend. 
-5. Locking adalah strategi broker culas untuk membuat client terus top up tanpa memahami bahaya bahwa sesungguhnya uangnya sdh tidak ada dgn mengatakan uang tetap aman krn blm real loss
-6. Dengan locking kita buang waktu dan komisi thd posisi yang ada. 
-7. Satu satunya manfaat locking hanya pada saat margin kita diujung MC yg mana kalau di cut tidak bisa masuk posisi lagi. 
+-Tindakan locking dan stoploss adalah sama dari aspek hitungan price movement jadi locking ataupun cutloss hasilnya sama pada saat cutloss di ganti stoploss dan open locking di ganti open posisi. 
+-Dengan locking kita akan lbh sering menginap dan dana akan di sedot oleh swap
+-Locking akan selalu merangsang orang untuk lbh dulu membuka posisi profit .
+-Membongkar cara seperti itu cenderung akan memperlebar rugi atau locking di saat trend. 
+-Locking adalah strategi broker culas untuk membuat client terus top up tanpa memahami bahaya bahwa sesungguhnya uangnya sdh tidak ada dgn mengatakan uang tetap aman krn blm real loss
+-Dengan locking kita buang waktu dan komisi thd posisi yang ada. 
+-Satu satunya manfaat locking hanya pada saat margin kita diujung MC yg mana kalau di cut tidak bisa masuk posisi lagi. 
 
-* Cut Loss:
+* **17-Cut Loss:**
 
-1. Di market tidak ada yang namanya master / suhu setelah sekian banyak benar pasti akan terjadi kesalahan.
-2. Pentingnya stop loss . ( saya kena SL di 1613 sell limit 1608 ). Akan mudah bagi saya untuk recover karena hanya 50pips.
+-Di market tidak ada yang namanya master / suhu setelah sekian banyak benar pasti akan terjadi kesalahan.
+-Pentingnya stop loss . ( saya kena SL di 1613 sell limit 1608 ). Akan mudah bagi saya untuk recover karena hanya 50pips.
 
 
-* Analyst vs Trader:
+* **18-Analyst vs Trader:**
 
-1. Seorang analyst akan terus melakukan riset teknis untuk memperoleh jenis analisa yang akurat. Seorang trader hanya menggunakan analisis atau indikator yang dianggap nyaman. 
-2. Seorang analyst memiliki ego yang tinggi merasa selalu benar. Seorang trader lbh bisa menerima kesalahan.
-3. Seorang analyst stoploss berdasarkan analisanya . Seorang trader stoploss berdasarkan dananya. 
-4. Seorang analyst mementingkan berapa kali dia benar. Seorang trader mementingkan berapa duit yang dia dapatkan.
-5. Seorang analyst cenderung memamerkan profit dan diam saat loss. Seorang trader tidak ada yg tau dia profit dan tidak ada yg tau dia loss. 
-6. Seorang analyst selalu mencari guru technis. Seorang trader lbh banyak duduk diam melihat harga. 
-7. Chart analyst penuh garis . Chart trader polos.
-8. Analyst mewakili sifat ilmuwan trader mewakili sifat pengusaha. 
+-Seorang analyst akan terus melakukan riset teknis untuk memperoleh jenis analisa yang akurat. Seorang trader hanya menggunakan analisis atau indikator yang dianggap nyaman. 
+-Seorang analyst memiliki ego yang tinggi merasa selalu benar. Seorang trader lbh bisa menerima kesalahan.
+-Seorang analyst stoploss berdasarkan analisanya . Seorang trader stoploss berdasarkan dananya. 
+-Seorang analyst mementingkan berapa kali dia benar. Seorang trader mementingkan berapa duit yang dia dapatkan.
+-Seorang analyst cenderung memamerkan profit dan diam saat loss. Seorang trader tidak ada yg tau dia profit dan tidak ada yg tau dia loss. 
+-Seorang analyst selalu mencari guru teknis. Seorang trader lbh banyak duduk diam melihat harga. 
+-Chart analyst penuh garis. Chart trader polos.
+-Analyst mewakili sifat ilmuwan trader mewakili sifat pengusaha. 
 
-* Pencarian Holy Grail!
+* **19-Pencarian Holy Grail!:**
 
 Dalam trading loss dan profit , merah dan biru adalah sahabat kita sehari2 namun dua kondisi ini memiliki kelanjutan cerita yg banyak yg mungkin suatu hari akan kita bahas dengan teman,junior atau bahkan anak cucu kita yg kebetulan jadi trader 😁. 
 Ada satu kondisi yg ingin saya bahas dan ini pengalaman pribadi. Dulu begitu saya loss sekali atau dua kali saya akan berfikir lagi mencari strategi baru yg mana strategi baru itu saya ambil dari kondisi loss terakhir kemudian saya jalankan lalu loss lagi saya cari lagi strategi baru . Ketemu dan benar tidak lama salah lagi ternyata strategi lama yg pertama yg benar lalu saya balik lagi. Terus dan terus .SL 5 kena ganti SL 10 SL 10 kena ganti lagi SL 15 . Averaging berhasil martiangle berhasil begitu gagal tdk berani lagi ganti lagi. Begitu terus. Pernakah teman2 mengalami ? 
 Saya tidak menyarankan anda mengulang pengalaman saya itu. Carilah strategi yang tepat melalui testing .
 
 
-* NFP:
+* **20-Khusus NFP:**
 
 1. Pada saat nonfarm payroll rilis semua data bagus maka asumsinya adalah dollar menguat dan gold turun namun saat tadi data di rilis pelaku akan di buat ragu untuk sell di awal awal karena dollarnya tetap minus besar. Ternyata harga benar turun lihat point 2c. Data sell yg membuat kita takut sell adalah benar.
 2. Kemudian keraguan itu mulai hilang saat harga turun makin dalam maka kita akan cenderung sell krn merasa harga ikut data. Begitu kita sell dibawah harga berbalik lagi keatas. Kenapa ? Lihat point no.1 Data ekonomi akan sulit melawan trend jika trend kuat naik biasanya data bagus tetap ada pembalikan dulu.
