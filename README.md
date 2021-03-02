@@ -23,59 +23,57 @@ Disaat kita Cut Loss atau Stop Loss kita kena kita biasanya akan terpancing untu
 Biasanya disaat seperti itu nalar kita sdh menipis yang ada adalah emosi. Hindari mengambil keputusan di saat emosi karena tingkat keberhasilan sangat kecil. Seperti berkelahi orang yg emosional biasanya akan mudah dikalahkan. Tenangkan diri kita ingat besok market tetap ada.  
 
 
-* Sebelum kita masuk ke trading Derivatif forex , commodity , finansial maka penting terlebih dahulu memahami kata satu ini Leverage. 
-
+* **4-Leverage:**  
+Sebelum kita masuk ke trading Derivatif forex , commodity , dan finansial maka penting terlebih dahulu memahami kata satu ini Leverage.
 Leverage sesuai artinya adalah daya ungkit dimana dengan sesuatu yg kecil kita dapat mengangkat barang yang besar. Contohnya dongkrak. Dalam trading leverage terkait dengan modal yang kita pakai untuk mentransaksikan sebuah kontrak yang nilainya sangat besar. Contoh leverage 1 : 100 Forex kita memakai uang 1000 untuk membeli 100.000. Dengan adanya leverage ini menyebabkan keuntungan dan kerugian dalam derivatif terkesan besar dan yg membuat besar itu adalah karena mayoritas modal yg digunakan kecil. Bagi yg tidak paham leverage akan mengatakan resiko besar uang saya habis padahal uang yg diinvestasikan kebanyakan mmg jauh dari value transaksinya. Ibarat modal 10.000.000 bayar DP apt yg harganya 1M . Kalau harga apt turun jadi 990.000.000 ya uang kita yg 10.000.000 habis buat bayar rugi apt tsb. Sedangkan penurunan aptnya sendiri tidak besar besar amat. Sebagian yg sdh lama sy yakin paham tapi tidak sedikit saya temukan trader / investor yg tidak paham sehingga menganggap bisnis derivatif resikonya besar. Padahal leverage ini lah yg membuat terasa besar. Atas dasar prinsip leverage ini maka peluang keuntungan juga sangat besar.
 
 
-* Kenapa dalam Trading kita membutuhkan Trading Plan / Rencana ? 
+* **4-Trading Plan:**  
+Kenapa dalam Trading kita membutuhkan Trading Plan / Rencana ? Alasannya karena kita adalah manusia , dan manusia itu tempatnya lupa , tidak teliti , serakah, Galau , takut dll. Ingat trading adalah pengambilan keputusan. Mengambil keputusan untuk buy sell stop loss take profit cover wait and see itulah keputusan yang akan diambil oleh trader/ investor. Keputusan diambil berdasarkan kondisi market. Mata kita saat melihat market lalu mengirim pesan kepada otak untuk otak mengambil keputusan. Dan proses itu memerlukan waktu. Dalam trading sometime pergerakan harga lebih cepat dari proses tersebut. Contoh harga sedang naik kita berfikir untuk cutloss saat mau action harga sudah turun kemudian tidak jadi dan seterusnya dan seterusnya yg sejenis. Oleh karena itu maka trading plan menjadi penting. Sebelum harga terjadi kita sdh tau apa yg mau dilakukan.
 
-Alasannya karena kita adalah manusia , dan manusia itu tempatnya lupa , tidak teliti , serakah, Galau , takut dll. Ingat trading adalah pengambilan keputusan. Mengambil keputusan untuk buy sell stop loss take profit cover wait and see itulah keputusan yang akan diambil oleh trader/ investor. Keputusan diambil berdasarkan kondisi market. Mata kita saat melihat market lalu mengirim pesan kepada otak untuk otak mengambil keputusan. Dan proses itu memerlukan waktu. Dalam trading sometime pergerakan harga lebih cepat dari proses tersebut. Contoh harga sedang naik kita berfikir untuk cutloss saat mau action harga sudah turun kemudian tidak jadi dan seterusnya dan seterusnya yg sejenis. Oleh karena itu maka trading plan menjadi penting. Sebelum harga terjadi kita sdh tau apa yg mau dilakukan.
-
-* Perdagangan Derivatif Forex , Gold , Index dkk bisa diibaratkan sebuah tambang namun kita tidak perlu memiliki tanah:
-
-Seperti tambang didalam market ada sejumlah uang dalam jumlah besar yang bisa  terus kita gali. Artinya Potensi yang ada didalamnya besar sama seperti sebuah tambang. Namun untuk menggali sebuah tambang tentu tidak gratis anda harus mahir , memiliki peralatan , memiliki pengalaman dan modal uang. Sedangkan di market Derivatif kita tidak perlu sebanyak itu. Yang kita butuhkan terbesar adalah Modal dari Tuhan. " OTAK" . Semoga makna filosofisnya bisa diterima. Tetap semangat.
+* **5-Tambang Digital:**  
+Perdagangan Derivatif Forex , Gold , Index dkk bisa diibaratkan sebuah tambang namun kita tidak perlu memiliki tanah: Seperti tambang didalam market ada sejumlah uang dalam jumlah besar yang bisa  terus kita gali. Artinya Potensi yang ada didalamnya besar sama seperti sebuah tambang. Namun untuk menggali sebuah tambang tentu tidak gratis anda harus mahir , memiliki peralatan , memiliki pengalaman dan modal uang. Sedangkan di market Derivatif kita tidak perlu sebanyak itu. Yang kita butuhkan terbesar adalah Modal dari Tuhan. " OTAK" . Semoga makna filosofisnya bisa diterima. Tetap semangat.
 
 
-* Apakah trading robot ?
+* **6-Trading Robot:**  
+Apakah trading robot ? Trading robot adalah sebuah software yang ditanamkan ke dalam suatu platform dengan perintah action trading otomatis berdasarkan algoritma tertentu yg didesign oleh pembuatnya. Apakah robot membantu ? Iya dari aspek memudahkan kita dan mengurangi resiko lupa dan semua kelemahan manusia namanya juga Robot. Tapi apakah Robot pasti membuat kita sukses ? Belum tentu. Apa alasannya ? Sederhana, 
 
-Trading robot adalah sebuah software yang ditanamkan ke dalam suatu platform dengan perintah action trading otomatis berdasarkan algoritma tertentu yg didesign oleh pembuatnya. Apakah robot membantu ? Iya dari aspek memudahkan kita dan mengurangi resiko lupa dan semua kelemahan manusia namanya juga Robot. Tapi apakah Robot pasti membuat kita sukses ? Belum tentu. Apa alasannya ? Sederhana, 1. Robot hanya bekerja berdasarkan algorithma teknis yang dibuat oleh manusia sedangkan gerakan harga dipasar dipengaruhi oleh banyak faktor dalam hal ini faktor fundamental yg tentunya tidak mampu di baca oleh si Robot. 2. Jika robot mampu menghasilkan secara konsisten seperti apa yg disampaikan penjual maka si penjual harusnya sudh sangat makmur karena hal ini untuk apa lagi robotnya dijual. ( penjual akan selalu memiliki argumen saat diutarakan hal ini ). 3. Hati2 ada robot2 tertentu yang sengaja diciptakan untuk merugikan nasabah terutama pihak yg memiliki kepentingan atas kerugian nasabah.
+-Robot hanya bekerja berdasarkan algorithma teknis yang dibuat oleh manusia sedangkan gerakan harga dipasar dipengaruhi oleh banyak faktor dalam hal ini faktor fundamental yg tentunya tidak mampu di baca oleh si Robot. 
+
+-Jika robot mampu menghasilkan secara konsisten seperti apa yg disampaikan penjual maka si penjual harusnya sudh sangat makmur karena hal ini untuk apa lagi robotnya dijual. ( penjual akan selalu memiliki argumen saat diutarakan hal ini ). 
+
+-Hati2 ada robot2 tertentu yang sengaja diciptakan untuk merugikan nasabah terutama pihak yg memiliki kepentingan atas kerugian nasabah.
 
 Pada prinsipnya tidak ada yg salah dengan robot tapi pemahaman bahwa robot pasti akan lebih baik atau akan menjadikan kita trader / investor sesuai yg kita harapkan akan terwujud blm tentu. Dengan tanpa bermaksud mendeskriditkan sebuah kreatifitas teknologi saya berharap teman2 dapat menangkap substansinya. 
-Saya tergelitik menulis ini karena banyak sekali saya lihat orang yg terjebak dengan pemahaman robot trading ini bahkan tidak sedikit yg MC. 
+Saya tergelitik menulis ini karena banyak sekali saya lihat orang yg terjebak dengan pemahaman robot trading ini bahkan tidak sedikit yg Margin Call. 
 
-* Kesalahan Trader / Investor:
-
-Salah satu kesalahan Trader / Investor adalah terus mencari indikator yang sempurna ( secara tidak sadar ) setiap kali sebuah indikator salah walaupun 2 atau 3 kali sebelumnya benar tidak akan membuat mereka puas. 
-Mereka akan terus mencari mencoba mencari dan mencoba . Mencari suhu atau master atau apapun sebutannya yang dianggap dpt membocorkan indikatornya. 
-
-Pada akhirnya pencarian ini akan berakhir dengan keputusasaan krn diterjang badai MC ( semoga anda tidak ). 
-Percayalah bahwa indikator sempurna itu tidak pernah ada paling tidak hingga hari ini. 
-Kenapa ? 
-Bayangkan market derivatif sdh ada sejak kpn ? Dan pasti sudah melahirkan orang pandai dalam trading knp tdk melahirkan orang terkaya nomor satu dr sana padahal gerakan forex / derivatif jika benar terus bisa menghasilkan berapa dlm satu hari. Betul ? 
+* **7-Kesalahan trader terhadap indikator:**  
+Salah satu kesalahan Trader / Investor adalah terus mencari indikator yang sempurna ( secara tidak sadar ) setiap kali sebuah indikator salah walaupun 2 atau 3 kali sebelumnya benar tidak akan membuat mereka puas. Mereka akan terus mencari mencoba mencari dan mencoba . Mencari suhu atau master atau apapun sebutannya yang dianggap dpt membocorkan indikatornya. Pada akhirnya pencarian ini akan berakhir dengan keputusasaan krn diterjang badai Margin Call ( semoga anda tidak ). Percayalah bahwa indikator sempurna itu tidak pernah ada paling tidak hingga hari ini. Kenapa ? Bayangkan market derivatif sdh ada sejak kpn ? Dan pasti sudah melahirkan orang pandai dalam trading knp tdk melahirkan orang terkaya nomor satu dr sana padahal gerakan forex / derivatif jika benar terus bisa menghasilkan berapa dlm satu hari. Betul ? 
 Semua indikator sdh di test oleh penciptanya dan semua memiliki akurasinya masing2. Pilihlah beberapa yg anda nyaman itu sdh cukup. 
-Kenapa ? 
-Ingat market ini hanya 50 : 50 yg bikin susah itu kita.
+Kenapa ? Ingat market ini hanya 50 : 50 yg bikin susah itu kita.
 
-* Karakter Emas XAUUSD-> Gold Spot:
+* **8-ter Emas XAUUSD-> Gold Spot:**
 
-1. Emas adalah salah satu underlying yang dijadikan oleh seluruh negara sebagai cadangan devisa karena sewaktu2 bisa dijual.
-2. Emas merupakan salah satu instrumen investasi keuangan tiga besar diluar USD dan Saham. 
-3. Emas sering disebut sebagai safe heaven karena sifatnya yang stabil. Sehingga dalam situasi normal emas tidak dilirik investor karena inv lbh suka akan volatilitas saham yang jauh lebih besar. 
+-Emas adalah salah satu underlying yang dijadikan oleh seluruh negara sebagai cadangan devisa karena sewaktu2 bisa dijual.
 
-Dari tiga karakter tersebut maka dapat kita buat kesimpulan bahwa Emas akan dilirik saat terjadi instabilitas. Artinya demand nya akan bertambah. 
+-Emas merupakan salah satu instrumen investasi keuangan tiga besar diluar USD dan Saham. 
 
-* Bagi kita sebagai trader kecil ingusan maka harus memetik pelajaran dari fenomena Gold ini, apa saja :
+-Emas sering disebut sebagai safe heaven karena sifatnya yang stabil. Sehingga dalam situasi normal emas tidak dilirik investor karena inv lbh suka akan volatilitas saham yang jauh lebih besar. 
 
-1. Pasar digerakkan oleh sebuah situasi bukan oleh teknikal kita pada saat pasar mau bergerak dia akan tabrak semua batasan2 yg ada pada teknikal.
-2. Jangan pernah ada pemikiran harga sudah tinggi atau harga sudah rendah.
-3. Jangan terbujuk dengan strategi averaging atau martiangle jika anda tidak memahami pasar itu sendiri. Bayangkan jika anda averaging sell dari bawah
-4. Korona bukan satu satunya dia hanya memboosting atau mempercepat artinya jika vaksin ternyata ditemukan jangan buru2 menyimpulkan trend akan berbalik bahwa akan ada reaksi positif itu benar.
+Dari tiga karakter tersebut maka dapat kita buat kesimpulan bahwa Emas akan dilirik saat terjadi instabilitas. Artinya demand nya akan bertambah. Bagi kita sebagai trader kecil ingusan maka harus memetik pelajaran dari fenomena Gold ini, apa saja :
+
+-Pasar digerakkan oleh sebuah situasi bukan oleh teknikal kita pada saat pasar mau bergerak dia akan tabrak semua batasan2 yg ada pada teknikal.
+
+-Jangan pernah ada pemikiran harga sudah tinggi atau harga sudah rendah.
+
+-Jangan terbujuk dengan strategi averaging atau martiangle jika anda tidak memahami pasar itu sendiri. Bayangkan jika anda averaging sell dari bawah
+
+-Korona bukan satu satunya dia hanya memboosting atau mempercepat artinya jika vaksin ternyata ditemukan jangan buru2 menyimpulkan trend akan berbalik bahwa akan ada reaksi positif itu benar.
 
 Dan satu hal juga yg saya yakin luput dari pemantauan trader/investor adalah bahwa 2019 terutama kuartal terakhir pasar saham terutama wallstreet menunjukkan kenaikan yg cukup besar maka banyak pelaku akan meliquid saham ambil untungnya untuk berpindah keemas dan ini juga salah satu alasan yg membuat emas strong Bullish. 
 
 
-* Kerugian dalam trading seperti sebuah luka. 
+* **9-Kerugian dalam trading seperti sebuah luka:** 
 
 Luka yang kecil membutuhkan obat yg sedikit luka yg besar membutuhkan obat yang besar. 
 Contoh sederhana adalah jika kita loss 40 pips maka kita butuh profit 40+ pips untuk menutupi . Apabila kita rugi 100 pips maka kita butuh 100+ pips untuk menutup kerugian tersebut. Maka pertanyaannya lebih gampang kita cari 40 pips atau 100 pips ? Mmg kadang kadang ini gampang dibicarakan sulit di laksanakan .
@@ -86,7 +84,7 @@ Berapakah stop loss yg ideal ? Bagi saya stop loss maksimum yg ideal adalah :
 Alasannya : jika itu terjadi besok saya selalu memiliki peluang untuk menutupnya. 
 
 
-* INKONSISTENSI:
+*  **10-Inkonsistensi:**
 
 Trader memiliki kebiasaan memperhatikan chart apalagi setelah OP. Akibat dari memperhatikan chart tersebut kita terkadang akan tergoda untuk merubah titik TP / SL yang kita buat atau kadang juga membatalkannya. Kenapa ? Karena sebagai manusia kita memiliki sifat serakah,tidak mau rugi atau bahkan sebaliknya juga penakut. 
 TP di geser keatas krn harga terlihat kuat.
