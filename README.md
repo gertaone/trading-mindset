@@ -331,7 +331,7 @@ Oleh karena itu bgmn solusinya:
 
 -2.Kalau ada profit beramal lah dgn profit kita. 
 
-* Stop Loss:
+* **31-Stop Loss:**
 
 Mengenai Stop Loss. Jika orang bertanya kenapa trading perlu melakukan Stop Loss? Mayoritas akan menjawab Untuk manajemen resiko, untuk membatasi kerugian, sebagai pelengkap trading plan , saya diajarkan metor begitu 😁 semua benar. 
 Tapi kesempatan ini saya tambahkan sebuah rahasia yg jarang orang tau. StopLoss kalau ikhlas adalah senjata untuk profit besar. 
@@ -348,9 +348,10 @@ Bagi saya trading adalah make money no matter how is the way. Easier is better. 
 
 
 
-* Trading Plan: Mari kita mulai. Untuk membuat sederhana pemahamannya saya akan langsung contoh dengan ilustrasi angka. 
+* **32-Trading Plan:**
+ Mari kita mulai. Untuk membuat sederhana pemahamannya saya akan langsung contoh dengan ilustrasi angka. 
 
-Step 1 
+Step 1: 
 1. Saya menyiapkan modal $ 1.000
 2. Saya siapkan risk limit 50% dr modal.
 3. Saya bagi risk limit saya menjadi 10 kali :  $500 : 10 = 50 $ ( saya namakan R )
@@ -360,12 +361,12 @@ Step 1
 7. Kesimpulan : 
     Jika SL saya  hit 10 kali berturut2 maka limit risk saya tercapai yaitu $500. 
 
-Step 2
+Step 2:
 1. Saya akan menghitung rata2 harian sebuah pair. 
 2. Cara hitungnya : high - low 5 hari terakhir di jumlahkan lalu di bagi 5. 
 3. Pair dgn rata rata harian 100 - 200 pips akan menjadi pilihan.
 
-Step 3. 
+Step 3:
 1. Setiap hari tentukan arah pair tersebut. Gunakan teknik apa saja yang diyakini atau pernah diback test atau yang anda comot dari master2 yg anda tau. Target nya : Today Buy or Sell.
 2. Tentukan Entry point . Apa saja yg anda cukup familiar. Bisa : parabolic , SNR , stochastic , moving apa saja . 
 3. Setelah OP langsung pasang SL : TP 
@@ -373,7 +374,7 @@ Dengan komposisi R : 2R . Kalau mengacu kasus diatas 50 pips : 100 pips.
 4. Biarkan sampai salah satu kena. 
 5. Ulangi Step 3 untuk keesokan hari. 
 
-Step 4. 
+Step 4: 
 Evaluasi hasil : 
 Jika kita 5 x OP 
 a. 0 benar 5 salah : - 250 pips
@@ -391,17 +392,18 @@ Jika c dan d : normal untuk sebuah teknik.
 Jika teknik anda mampu mencapai c dan d saja . Bagaimana kalkulasinya dalam 1 bulan. Saya ambil yang c saja . 
 50 x 4 minggu = 200pips / bulan . Jika modal 1000 berarti 20% keuntungan sebulan. Ingat itu hanya c bgmn kalau d atau e. 
 
-Step 5
+Step 5:
 Sebagai Trader tentu anda setuju bahwa logika diatas tidak akan terbantahkan. 
 Namun juga tidak semudah itu dijalankan. 
 Berikut hal yang akan menggagalkan.
-1. Tergoda Stop Loss dan Take profit sebelum tersentuh. 
-2. 2 kali salah berturut2 membuat anda ragu untuk melanjutkan. 
-3. Jika TP atau SL hit di awal2 sisa waktu yang ada panjang maka tidak tahan untuk tidak ambil posisi lagi. 
-4. Jika SL kena cenderung mau entry lagi untuk membalas kerugian. 
-5. Diganggu fundamental lewat. 
 
-Step 6 ( mengatasi step 5 ) 
+-1. Tergoda Stop Loss dan Take profit sebelum tersentuh. 
+-2. 2 kali salah berturut2 membuat anda ragu untuk melanjutkan. 
+-3. Jika TP atau SL hit di awal2 sisa waktu yang ada panjang maka tidak tahan untuk tidak ambil posisi lagi. 
+-4. Jika SL kena cenderung mau entry lagi untuk membalas kerugian. 
+-5. Diganggu fundamental lewat. 
+
+Step 6 (mengatasi step 5):
 1. Ingat Step 1.2 limit risk. 
 2. Selalu ingat jika anda bisa / pernah loss 100 pips maka apa alasannya kita tidak bisa profit 100 pips. Harga itu ga naik ya turun. 
 3. Begitu anda galau lihat step 4.c ga perlu menjadi sempurna untuk tiap bulan wd profit. 
@@ -410,49 +412,43 @@ Step 6 ( mengatasi step 5 )
 6. Untuk 3.1 dan 3.2 mau anda dapatkan dari master manapun upayakan lakukan back test. Mau gunakan yg saya ajarkan di video juga cukup akurat selama ini. 
 
 
-* Hilang sekejap mata itu uang:
+* **33-Hilang sekejap mata itu uang:**
 
-Seperti biasa hari sabtu saya akan share sesuatu yang ada unsur edukasinya . Sesungguhnya jika teman2 baca channel ini secara utuh ga lompat lompat sebenarnya sudah cukup banyak pandangan2 psikologi yang sudah saya sampaikan. 
-Agar tidak bernuansa teoritis ( walau sebenarnya yg saya tulis itu bukan teori tapi pengalaman trading 25 tahun ) maka apa yg saya share mulai hari ini untuk sabtu adalah kisah nyata yg dialami oleh orang2 yg saya kenal namun terkait masalah trading. 
-Disini saya ingin mengingatkan pentingnya SYSTEM Trading atau trading plan dan yang lebih penting lagi adalah konsisten terhadap planning tsb. 
-Jadi ceritanya begini ada seorang kawan yang akhir2 ini cukup intens komunikasi dgn saya. Singkat kata kawan ini trading dengan planning yang adalah sedikit masukan hasil ngobrol dgn saya. Hampir tiap hari profit biru biru kadang ss ke saya senang saya lihatnya. Tapi ada satu hari kawan ini systemnya mengatakan harus diam dulu tidak entry. Dan ternyata hasrat jari mengalahkan system kawan ini melakukan scalping katanya di hari tersebut sampai MC . Memang modal tidak besar. Tapi dari awal kawan ini ingin masuk besar saya larang karena pemula sy katakan gunakan modal kecil dulu rasakan pasar rasakan gangguan psikologi kalau pakai uang asli akan sangat beda psikologinya.
-Dan satu hal saat awal mau depo kawan ini menggaransi saya bahwa dia mampu konsisten dan kontrol emosi tapi faktanya berakhir seperti diatas. 
-Apa pesan dari kisah nyata di atas ? Kita mungkin punya system bagus kita mungkin punya teknical bagus tapi begitu kita tidak mampu mengontrol psikologi dan emosi semua bisa hilang dalam sekejap. 
+Seperti biasa hari sabtu saya akan share sesuatu yang ada unsur edukasinya . Sesungguhnya jika teman2 baca channel ini secara utuh ga lompat lompat sebenarnya sudah cukup banyak pandangan2 psikologi yang sudah saya sampaikan. Agar tidak bernuansa teoritis ( walau sebenarnya yg saya tulis itu bukan teori tapi pengalaman trading 25 tahun ) maka apa yg saya share mulai hari ini untuk sabtu adalah kisah nyata yg dialami oleh orang2 yg saya kenal namun terkait masalah trading. Disini saya ingin mengingatkan pentingnya SYSTEM Trading atau trading plan dan yang lebih penting lagi adalah konsisten terhadap planning tsb. Jadi ceritanya begini ada seorang kawan yang akhir2 ini cukup intens komunikasi dgn saya. Singkat kata kawan ini trading dengan planning yang adalah sedikit masukan hasil ngobrol dgn saya. Hampir tiap hari profit biru biru kadang ss ke saya senang saya lihatnya. Tapi ada satu hari kawan ini systemnya mengatakan harus diam dulu tidak entry. Dan ternyata hasrat jari mengalahkan system kawan ini melakukan scalping katanya di hari tersebut sampai MC . Memang modal tidak besar. Tapi dari awal kawan ini ingin masuk besar saya larang karena pemula sy katakan gunakan modal kecil dulu rasakan pasar rasakan gangguan psikologi kalau pakai uang asli akan sangat beda psikologinya. Dan satu hal saat awal mau depo kawan ini menggaransi saya bahwa dia mampu konsisten dan kontrol emosi tapi faktanya berakhir seperti diatas. Apa pesan dari kisah nyata di atas ? Kita mungkin punya system bagus kita mungkin punya teknical bagus tapi begitu kita tidak mampu mengontrol psikologi dan emosi semua bisa hilang dalam sekejap. 
 
-* Tidak ada harga suatu produk derivatif terlalu mahal dan terlalu rendah
+* **34-Tidak ada harga suatu produk derivatif terlalu mahal dan terlalu rendah**
 
-* TRADING PLAN:
+* **35-Trading Plan (lagi):**
 
-1. Pentingnya Trading plan 
-
+-1. Pentingnya Trading plan:
 Kenapa dalam trading kita perlu trading plan ? Trading itu urusannya dengan uang bolehlah kita masukkan kategori sebagai bisnis. Coba bayangkan kita jalankan sebuah bisnis tanpa planning sewa toko sewa aja. Belanja barang belanja aja . Jual mau untung berapa dagangan kita ya jual aja ikut mood . Kira2 kemungkinan bangkrut bisnis itu lebih besar atau berhasilnya lbh besar ? Saya kira jawaban kita sama . Dalam trading juga demikian perlu ada perencanaan tujuannya apa agar jika berhasil atau gagal kita tau titik lemah dan kuatnya kalau dalam ilmu management dikenal dengan analysist SWOT. Strength Weakness Opportunity and Threat. Sehingga langkah perbaikan akan obyektif dan efektif. Tapi kalau kita malas buat planning ya balik lagi itu pilihan. 
     
-2. Ekspresi 
-
+-2. Ekspresi:
 Kita dalam trading sering ngalamin kalau profit kita pingin banget tunjukkan ke orang2 kalau kita profit ada sebuah kepuasan , kebanggaan hal ini tidak salah tapi ini terkait kontrol emosi dan kita tau trading 60% adalah permainan emosi dari hal ini kita bisa belajar mengontrol emosi karena kalau kita mampu kontrol emosi niscaya keputusan2 trading kita akan lebih tenang dan tidak grasak grusuk karena terlatih. Pernah dengar istilah trader sukses mayoritas adalah silent trader ? Mari kita belajar jadi mereka. 
 
-3. Risk & Reward
+-3. Risk & Reward:
 
 Risk and reward sangat penting dalam trading ini terkait dengan trading plan sebenarnya . Jadi berapa R&R yang ideal . Saya setuju dengan postingan salah satu member group bahwa 1 : 1 . Dan ini minimal kenapa ? Karena dalam trading tidak akan ada winning rate 100% jadi jika kita mendapatkan strategi 50:50 kita msh impas. Dan upayakan ini konsisten tidak perlu takut untuk SL kena , karena saya yakin anda pasti masuk sudah ada study awal terhadap strategi . Anggap saja ga hebat2 amat 5 x trading rasio nya benar 3 salah 2 kita tetap profit. Setuju ? 
 
 
-4. Stochastic 
+-4. Stochastic: 
+Sedikit keluar dari psikologi ada pembahasan stoch di group. Bagi saya stoch adalah indikator yang sangat membantu asal tau pemakaiannya. Dan saran saya untuk stoch timeframe paling tinggi adalah di H1 selebihnya jgn dipakai. Dan gunakan Stoch hanya pada saat koreksi bukan trend. Silakan di pantau back test mumpung weekend.
 
-Sedikit keluar dari psikologi ada pembahasan stoch di group. Bagi saya stoch adalah indikator yang sangat membantu asal tau pemakaiannya. Dan saran saya untuk stoch timeframe paling tinggi adalah di H1 selebihnya jgn dipakai. Dan gunakan Stoch hanya pada saat koreksi bukan trend. Silakan di pantau back test mumpung weekend
-
-* TRADING PLAN + PSIKOLOGI TRADING:
+* **36-TRADING PLAN + PSIKOLOGI TRADING:**
 
 Sebenarnya apa yg akan saya share ini adalah pengulangan tapi itu lah trading semua kejadian yang kita alami merupakan pengulangan termasuk juga penyebab kita rugi juga sama sifatnya adalah ke alpaan yg berulang dari kita. Biasanya orang yg mengulang kesalahan itu kita sebut bebal. Tapi dalam trading saya merasa kurang tepat . Hal ini cenderung adalah karena kita sebagai manusia membawa sifat dasar. Yaitu Takut . Takut ini adalah sumber dasar prolem trading. Takut rugi , Takut ketinggalan harga , Takut Cut Loss harga berbalik, Takut Take Profit harga berlanjut. Betul ? Maka obatnya adalah system / Planning. tanpa itu kita secara emosional akan dipermainkan harga dan kalau itu sudah terjadi yakin seyakin yakinnya saya trading akan berantakan . Pada saat harga melawan kita kita dibuat serba salah cut salah tidak cut salah akhirnya keputusan akhir diambil di ujung karena melihat margin sudah ga kuat lagi dan setelah diambil harga balik selalu seperti itu dari jaman baheula urusan trading . Maka saya kembali mengingatkan pentingnya planning . Terserah mau untung banyak mau untung dikit itu bebas ga ada yg larang yang paling penting apa yg kita mau dari sebuah action itu sdh disiapkan sejak sebelum OP atau sesaat setelah OP jangan biarkan harga bergerak baru mikir itu biang masalah dalam trading. Mungkin sebagian menganggap ini klise tapi ini lah yg membuat saya trading secara tenang untung rugi itu sdh biasa dalam trading tapi menghilangkan kepanikan saat punya posisi itu adalah salah satu kunci profit konsisten. 
 Have nice weekend all. Semoga wabah covid segera berlalu.
 
 
-* Financial Market: Saham, USD, GOLD
+* **37-Financial Market: Saham, USD, GOLD:**
 
 Di dalam investasi pasar finansial ada 3 portofolio yang paling populer yaitu :
 
-1. Pasar Saham
-2. Mata uang khususnya USD
-3. Safe Haven Emas
+-1. Pasar Saham
+
+-2. Mata uang khususnya USD
+
+-3. Safe Haven Emas
 
 Dari ketiga tersebut yang paling diminati adalah pasar saham alasannya adalah pasar saham memiliki pelaku yang paling sedikit dengan sedikitnya pelaku menyebabkan volatilitas saham menjadi tinggi dan potensi meraih yield atau gain sangat besar dibandingkan dengan dua lainnya. Dalam satu hari perubahan harga saham mampu mencapai antara 1 - 5%. Hanya dalam saham ada sebuah kelemahan yaitu kebanyakan pasar hanya memberlakukan long position atau posisi beli. walau ada beberapa exchange yang memiliki mekanisme short Selling tentu dengan Term & Condition yang ada.
 
