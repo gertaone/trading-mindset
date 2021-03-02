@@ -53,7 +53,6 @@ Semua indikator sdh di test oleh penciptanya dan semua memiliki akurasinya masin
 Kenapa ? Ingat market ini hanya 50 : 50 yg bikin susah itu kita.
 
 * **9-ter Emas XAUUSD-> Gold Spot:**
-
 -Emas adalah salah satu underlying yang dijadikan oleh seluruh negara sebagai cadangan devisa karena sewaktu2 bisa dijual.
 
 -Emas merupakan salah satu instrumen investasi keuangan tiga besar diluar USD dan Saham. 
@@ -74,7 +73,6 @@ Dan satu hal juga yg saya yakin luput dari pemantauan trader/investor adalah bah
 
 
 * **10-Kerugian dalam trading seperti sebuah luka:** 
-
 Luka yang kecil membutuhkan obat yg sedikit luka yg besar membutuhkan obat yang besar. 
 Contoh sederhana adalah jika kita loss 40 pips maka kita butuh profit 40+ pips untuk menutupi . Apabila kita rugi 100 pips maka kita butuh 100+ pips untuk menutup kerugian tersebut. Maka pertanyaannya lebih gampang kita cari 40 pips atau 100 pips ? Mmg kadang kadang ini gampang dibicarakan sulit di laksanakan .
 Apa yg menyebabkan sulit ? Karena kita sebagai manusia memiliki sifat dasar tidak mau rugi dan bagi yang punya pengalaman trading punya sifat mempertahankan analisa awal. Betul tidak ? ( baca cara aa gym )😅 Ditambah lagi ada kekhawatiran jika stop loss kecil harga berbalik. Betul ? Sebenarnya begitu kita OP dan minus tertentu sesungguhnya prediksi kita sudah 70% salah . Jika harga berbalik maka 30% lah yg terjadi. Apakah kita selalu mengalami yg 30% ? Artinya setiap minus selalu berbalik ? Sy kembalikan kpd teman2.
@@ -85,7 +83,6 @@ Alasannya : jika itu terjadi besok saya selalu memiliki peluang untuk menutupnya
 
 
 *  **11-Inkonsistensi:**
-
 Trader memiliki kebiasaan memperhatikan chart apalagi setelah OP. Akibat dari memperhatikan chart tersebut kita terkadang akan tergoda untuk merubah titik TP / SL yang kita buat atau kadang juga membatalkannya. Kenapa ? Karena sebagai manusia kita memiliki sifat serakah,tidak mau rugi atau bahkan sebaliknya juga penakut. 
 TP di geser keatas krn harga terlihat kuat.
 SL di geser kebawah karena takut kena. Dan seterusnya. 
@@ -109,7 +106,6 @@ Pemahaman ini tentu tidak pas untuk para martiangle yg menggunakan lot besar sis
 Bagi yg merubah lot krn keyakinan analisa juga tidak salah.
 
 * **13-Tips Data Fundamental:**
-
 -Data ekonomi akan dikeluarkan oleh otoritas masing2 negara. 
 
 -Data ekonomi umumnya berupa data bulan sebelumnya , prediksi kemudian data aktual.
@@ -157,7 +153,6 @@ Jadi kesimpulan untuk hari ini adalah :
 * **15-Profit Happy & Loss Sad-> Trader yang LEMAH!**
 
 * **16-Locking / Hedging:**
-
 Yang perlu di pahami adalah bahwa tindakan locking lbh banyak mudharat dari pada manfaat . Kenapa ? 
 
 -Tindakan locking dan stoploss adalah sama dari aspek hitungan price movement jadi locking ataupun cutloss hasilnya sama pada saat cutloss di ganti stoploss dan open locking di ganti open posisi. 
@@ -169,13 +164,12 @@ Yang perlu di pahami adalah bahwa tindakan locking lbh banyak mudharat dari pada
 -Satu satunya manfaat locking hanya pada saat margin kita diujung MC yg mana kalau di cut tidak bisa masuk posisi lagi. 
 
 * **17-Cut Loss:**
-
 -Di market tidak ada yang namanya master / suhu setelah sekian banyak benar pasti akan terjadi kesalahan.
+
 -Pentingnya stop loss . ( saya kena SL di 1613 sell limit 1608 ). Akan mudah bagi saya untuk recover karena hanya 50pips.
 
 
 * **18-Analyst vs Trader:**
-
 -Seorang analyst akan terus melakukan riset teknis untuk memperoleh jenis analisa yang akurat. Seorang trader hanya menggunakan analisis atau indikator yang dianggap nyaman. 
 -Seorang analyst memiliki ego yang tinggi merasa selalu benar. Seorang trader lbh bisa menerima kesalahan.
 -Seorang analyst stoploss berdasarkan analisanya . Seorang trader stoploss berdasarkan dananya. 
@@ -186,26 +180,24 @@ Yang perlu di pahami adalah bahwa tindakan locking lbh banyak mudharat dari pada
 -Analyst mewakili sifat ilmuwan trader mewakili sifat pengusaha. 
 
 * **19-Pencarian Holy Grail!:**
-
 Dalam trading loss dan profit , merah dan biru adalah sahabat kita sehari2 namun dua kondisi ini memiliki kelanjutan cerita yg banyak yg mungkin suatu hari akan kita bahas dengan teman,junior atau bahkan anak cucu kita yg kebetulan jadi trader 😁. 
 Ada satu kondisi yg ingin saya bahas dan ini pengalaman pribadi. Dulu begitu saya loss sekali atau dua kali saya akan berfikir lagi mencari strategi baru yg mana strategi baru itu saya ambil dari kondisi loss terakhir kemudian saya jalankan lalu loss lagi saya cari lagi strategi baru . Ketemu dan benar tidak lama salah lagi ternyata strategi lama yg pertama yg benar lalu saya balik lagi. Terus dan terus .SL 5 kena ganti SL 10 SL 10 kena ganti lagi SL 15 . Averaging berhasil martiangle berhasil begitu gagal tdk berani lagi ganti lagi. Begitu terus. Pernakah teman2 mengalami ? 
 Saya tidak menyarankan anda mengulang pengalaman saya itu. Carilah strategi yang tepat melalui testing .
 
 
 * **20-Khusus NFP:**
-*
-1. Pada saat nonfarm payroll rilis semua data bagus maka asumsinya adalah dollar menguat dan gold turun namun saat tadi data di rilis pelaku akan di buat ragu untuk sell di awal awal karena dollarnya tetap minus besar. Ternyata harga benar turun lihat point 2c. Data sell yg membuat kita takut sell adalah benar.
-2. Kemudian keraguan itu mulai hilang saat harga turun makin dalam maka kita akan cenderung sell krn merasa harga ikut data. Begitu kita sell dibawah harga berbalik lagi keatas. Kenapa ? Lihat point no.1 Data ekonomi akan sulit melawan trend jika trend kuat naik biasanya data bagus tetap ada pembalikan dulu.
-3. Ini adalah sedikit sharing mengenai karakter gold vs data. Dan ini adalah salah satu pola menipu dari data ekonomi. Ini bukan lah sebuah rumus mutlak tapi pengalaman dikepala saya menghadapi data ekonomi adalah seperti itu. Tujuan saya mereview kembali agar rekan2 paham kenapa data ekonomi 1 + 1 tidak selalu 2.
+-Pada saat nonfarm payroll rilis semua data bagus maka asumsinya adalah dollar menguat dan gold turun namun saat tadi data di rilis pelaku akan di buat ragu untuk sell di awal awal karena dollarnya tetap minus besar. Ternyata harga benar turun lihat point 2c. Data sell yg membuat kita takut sell adalah benar.
+
+-Kemudian keraguan itu mulai hilang saat harga turun makin dalam maka kita akan cenderung sell krn merasa harga ikut data. Begitu kita sell dibawah harga berbalik lagi keatas. Kenapa ? Lihat point no.1 Data ekonomi akan sulit melawan trend jika trend kuat naik biasanya data bagus tetap ada pembalikan dulu.
+
+-Ini adalah sedikit sharing mengenai karakter gold vs data. Dan ini adalah salah satu pola menipu dari data ekonomi. Ini bukan lah sebuah rumus mutlak tapi pengalaman dikepala saya menghadapi data ekonomi adalah seperti itu. Tujuan saya mereview kembali agar rekan2 paham kenapa data ekonomi 1 + 1 tidak selalu 2.
 
 * **21-OP untuk mmebuktikan PLAN:**
-
 Bahwa untuk saya pribadi analisa saya berlakunya hanya sampai saya open posisi setelah itu saya selalu menerima 2 kemungkinan yg akan terjadi yang pertama adalah analisa saya salah dan yang kedua adalah benar. Inilah pasar. Jika kita tetap bertahan dengan analisa kita bahwa harus benar bagi saya itu adalah sumber masalah. 
 Oleh karena itu setelah saya open posisi maka langkah selanjutnya adalah memastikan planning . Apa yang akan dilakukan jika benar dan apa yg akan dilakukan jika salah. Tidak ada lagi prediksi harga apalagi mempertahankan. 
 Sebagian orang mungkin akan protes dgn statement ini. Tidak masalah saya kembalikan kepada rekan2.
 
 * **22-Wins The War:**
-
 Pada saat kita mengenal dunia trading terutama forex dkk ada sebuah kebiasaan yg saya yakin kita semua alami yaitu setiap saat pengen lihat harga kemudian dengan margin yang ada selalu kepengen masuk pasar betul ? Itu wajar. Namun seiring waktu kebiasaan spt itu harus dikendalikan karena masuk pasar dgn dasar seperti itu tidak tepat dan resikonya biasanya besar. 
 Setelah masuk pasar yg lebih berbahaya adalah setiap hari kita berharap hari tersebut harus ditutup dgn hasil biru. Apapun resikonya hantam sampai biru. Kadang irasional terjadi di moment2 ini lot mulai berantakan keputusan mulai emosional dll. 
 Mari kita belajar dari filosofi perang. Keseharian kita di pasar saya analogikan sebagai pertempuran kecil. Hasil akhir dalam suatu waktu ( misal sebulan ) saya analogikan sebagai sebuah perang. Dan kita sebagai Jendralnya karena kita yang mengendalikan. Ingat seorang jendral perang tidak selalu menang dalam pertempuran2 kecil. 
@@ -215,32 +207,27 @@ artinya mindset kita jgn disetel tiap hari harus bertempur, tiap hari harus mena
 
 
 * **23-Konsisten Profit:**
-
 Pertama tama saya ingin rekan2 menyadari satu hal bahwa dalam trading setiap transaksi yang kita lakukan tidak akan pernah loss terus dan tidak akan pernah profit terus, setuju ? Nah yang sering membuat kita frustasi adalah hasil akhir dari loss dan profit itu adalah loss. Maka apa sesungguhnya yang terjadi ? Biasanya adalah terjadi apa yg kita kenal dgn pepatah besar pasak dari pada tiang. Yg mana rugi kita lebih besar dari pada profit kita. Yang menyebabkan ini terjadi adalah sulitnya kita membuang sifat dasar kita dimana Profit takut Hilang Loss Berharap balik. Maka solusinya adalah dibalik , Loss usahakan tetap sedangkan profit biarkan lebih besar maka tidak akan defisit. 
 Untuk menerima saran ini bisa jadi sulit di pemikiran orang2 tertentu. Tapi saya ada satu pertanyaan untuk membantu. Jika kita bisa rugi besar kenapa kita takut untuk profit lbh besar ? Coba suatu hari saat loss besar kita bayangin atau kita hitung dgn Buy kita di ganti Sell dan sebaliknya. Bukankah Loss besar jadi profit besar ? . 
 Maka semakin konsisten kita dengan angka SL yg tidak berubah2 akan berpotensi membuat kita profit konsisten. Bukan sekedar ketepatan analisa semata.
 
 
 * **24-Fokus SOP:**
-
 Saya yakin kita sering mengalami hal diatas yaitu saat SL kita kena kemudian harga berbalik atau sebaliknya TP kita kena harga berlanjut. Pada saat ini terjadi kadang bukan margin kita saja yg terganggu tapi psikologi kita juga kena kita akan kesal dan dampak lbh buruk adalah kita akan cenderung tidak konsisten lagi dengan planning kita. 
 
 Kesempatan ini saya ingin mengingatkan bahwa hal tersebut adalah wajar dan dialami semua trader. Maka untuk mengurangi dampak psikologis ini buka lah record transaksi kebelakang dimana anda diselamatkan oleh TP SL yang terencana. Selama bersama market bertahun2 yang paling saya takuti bukan kesalahan prediksi tapi adalah saat psikologi saya terganggu oleh karena itu saya berharap channel ini bisa berguna untuk saling mengingatkan. 
 
 
 * **25-Pause**:
-
 Hari ini saya akan sharing tentang masalah psikologi lagi. Sebagai Trader kita memiliki aktivitas yg selalu ngangenin yaitu lihat chart , nebak harga and action. Nah bagi kita yg cara tradingnya berkali kali maka ada sebuah keadaan yg menghampiri kita yaitu salah action kemudian cut loss atau stop loss. Hal yg biasa tapi kalau kita sudah kena hal ini berturut2 2 kali atau lebih secara berturut turut maka saya sarankan untuk stop dan beristirahat. Kenapa ? Karena kalau itu terjadi pikiran kita akan kacau biasanya dan cara anda melihat pasar sudah tidak rasional kita akan cenderung emosional dalam mengambil keputusan dan biasanya berantakan. Percaya lah mau sehebat apapun anda trading tetap kita sebagai manusia ada hari2 yang masuk kategori kurang beruntung. Maka upayakan di hari yang kurang beruntung ruginya jangan terlalu banyak. Berfikir saja kalau anda mampu dan pasar hari itu bukan hari terakhir. 
 
 * **26-Team Tag:**
-
 Ditengah aktivitas trading saya akan share sebuah pengalaman yang unik dari pengalaman trading. 
 Seperti tertulis diatas jangan pernah join akun jika kalian dua2 nya bisa analisa pasar. 
 Kedengaran aneh ? Bukannya 2 orang bisa analisa jadi lebih kuat ? Sepertinya begitu tapi kenyataannya tidak justru join seperti itu akan membuat berantakan bahkan suami istri , anak orang tua bisa berantem . Kenapa bisa ? Analisa adalah prediksi dan prediksi tidak pernah 100% benar pada saat salah satu dari anda mengatakan naik dan satu lagi turun maka anda akan memupuk masalah dari sana  Ga percaya cobain aja ....😁. Masalah tidak akan terjadi jika anda selalu se iya sekata yakin bisa ? Suami istri aja bisa cerai padahal sdh ijab kabul. Sebenarnya banyak lagi masalah kongsi akun ini berdasarkan pengalaman saya namun kalau di jelaskan banyak sekali . Intinya kalau 2 2 nya bisa analisa ga usah join lah sendiri2 aja.
 
 
 * **27-Greedy:**
-
 Obrolan dengan seorang rekan  dalam group FB minggu ini saya menjanjikan untuk membahas masalah tamak dan serakah dalam trading. Banyak yang menyatakan jangan serakah dalam trading . Apakah benar ? Tidak sepenuhnya benar. Apa alasannya ? 
 
 -Pernakah anda mengalami sebuah posisi dengan loss besar ? Saya yakin pernah coba bayangkan kalau anda boleh bisa loss besar dalam sebuah posisi bukankah akan terjadi sebaliknya profit besar jika order tersebut terbalik buy jadi sell sell jadi buy. artinya market bisa memberikan keuntungan besar. 
@@ -268,8 +255,8 @@ Karena saya perlu membuat screenshoot dan gambar2 maka saya ingin tanya dulu apa
 Bagaimana lanjut ?
 
 
-* Siap Rugi: Trading lah dengan sejumlah fund yang anda siap habis karena dengan psikologi itu justru sebaliknya saya lihat banyak yg berhasil.
-
+* **28-Siap Rugi:** 
+Trading lah dengan sejumlah fund yang anda siap habis karena dengan psikologi itu justru sebaliknya saya lihat banyak yg berhasil.
 Dalam trading salah satu persoalan psikologi adalah jika kita trading menggunakan modal pas pasan atau lebih jauh lagi modal pinjaman. Mengapa demikian ? Karena jika modal kita pas pasan maka ada sebuah tuntutan psikologi trading tidak boleh salah kalau salah habis kita. Kira2 begitu psikologinya. 
 Sedangkan market pada saat bergerak akan lbh banyak mengayun dari pada tegak lurus , betul ? 
 Pada saat market lurus dan anda benar disitu anda selamat dari masalah psikologi ini. 
@@ -284,47 +271,65 @@ Keinginan anda adalah profit terus. Atau tiap masuk harus langsung biru karena u
 Tapi market kenyataannya tdk begitu walu arah anda benar blm tentu gerak lurus dan sangat mungkin mengayun dan saat mengayun itu lah psikologi anda terganggu. 
 Jadi saran saya jgn trading dengan modal pas pasan. Trading lah dengan sejumlah fund yang anda siap habis karena dengan psikologi itu justru sebaliknya saya lihat banyak yg berhasil.
 
-* 15 Steps proses menjadi seorang trader:
+* **29-15 Steps proses menjadi seorang trader:**
+-1. Mengenal
 
-1. Mengenal
-2. Demo 
-3. Profit
-4. Coba Real 
-5. Takut2 
-6. Profit
-7. Suka
-8. Mendalami
-9. Percaya diri
-10. Loss
-11. Loss parah
-12. Evaluasi
-13. Menyadari
-14. Memperbaiki
-15. Stabil.
+-2. Demo 
+
+-3. Profit
+
+-4. Coba Real 
+
+-5. Takut2 
+
+-6. Profit
+
+-7. Suka
+
+-8. Mendalami
+
+-9. Percaya diri
+
+-10. Loss
+
+-11. Loss parah
+
+-12. Evaluasi
+
+-13. Menyadari
+
+-14. Memperbaiki
+
+-15. Stabil.
 
 
-* Faktor X:
-
+* **30-Faktor X:**
 Apakah menurut anda keberhasilan trading 100% ada dalam diri kita ? 
-Jawabannya benar dan salah. 
-Kenapa benar ? Karena dlm trading tentu subyek akan menentukan " Man behind the Gun "
-Kenapa salah ? Saya mengalami trading juga ada faktor X. 
-Dasarnya apa ? 
+Jawabannya benar dan salah. Kenapa benar ? Karena dlm trading tentu subyek akan menentukan " Man behind the Gun "
+Kenapa salah ? Saya mengalami trading juga ada faktor X. Dasarnya apa ? 
 
-1. Pernakah anda mau masuk pasar tapi ragu ragu lepas dari hasil.
-2. Pernakah anda buru2 dan salah klik ?
-3. Pernakah anda nunggu posisi dan ketiduran ? 
-4. Pernakah anda mau order internet tiba2 mati?
-5. Pernakah anda mau order A trus diganggu teman akhirnya jadi B ? 
-6. Pernakah anda mau depo ambil posisi tapi IB nya lama ? 
-7. Sambil pipis bawa HP ga sengaja kepencet OP ? 🤣
+-1. Pernakah anda mau masuk pasar tapi ragu ragu lepas dari hasil.
+
+-2. Pernakah anda buru2 dan salah klik ?
+
+-3. Pernakah anda nunggu posisi dan ketiduran ?
+
+-4. Pernakah anda mau order internet tiba2 mati?
+
+-5. Pernakah anda mau order A trus diganggu teman akhirnya jadi B ? 
+
+-6. Pernakah anda mau depo ambil posisi tapi IB nya lama ? 
+
+-7. Sambil pipis bawa HP ga sengaja kepencet OP ? 🤣
 
 Itu hanya beberapa dan mungkin adalagi kejadian2 faktor X dalam trading. 
 Saya tidak ingin bicara terlalu jauh tapi hal diatas saya alami dan saya menyimpulkan sometime dalam mengais rezeki ada fator X. 
 
-Oleh karena itu bgmn solusinya 
-1. Jika anda merasa ada yg aneh dgn hari itu dan keanehan membuat anda rugi maka hentikan trading di hari tsb. Namun jika keanehan itu menguntungkan silakan lanjut. Terus terang tidak ada penjelasan ilmiah mengenai hal ini but it happen.
-2. Kalau ada profit beramal lah dgn profit kita. 
+Oleh karena itu bgmn solusinya: 
+
+-1. Jika anda merasa ada yg aneh dgn hari itu dan keanehan membuat anda rugi maka hentikan trading di hari tsb. Namun jika keanehan itu menguntungkan silakan lanjut. Terus terang tidak ada penjelasan ilmiah mengenai hal ini but it happen.
+
+-2.Kalau ada profit beramal lah dgn profit kita. 
 
 * Stop Loss:
 
