@@ -8,14 +8,14 @@ Keberhasilan trading di pasar financial atau pasar modal manapun memiliki 3 fakt
 3. Psikologi (50%)
 
 * **2-Trading adalah tentang sebuah kemungkinan:** 
-
 Coba anda ambil coin dan lempar satu sisi kita ambil buy satu sisi kita ambil sell maka peluang profit kita 50 : 50 betul ? Maka market sesungguhnya tidak sulit dari aspek analisa kita hanya perlu menaikkan sedikit peluang yg 50 : 50 tadi dengan indikator apapun bisa. Ingat setiap indikator diciptakan pasti sdh melalui percobaan artinya memiliki akurasi yang dapat dipertanggung jawabkan. Lalu kenapa trading terasa sulit memperoleh untung? Karena 2 faktor, yaitu **Manajemen Kapital** dan **Psikologi** yang kita abaikan.
 
 
-* Kesalahan Trader : Disaat kita cutloss atau SL kita kena kita biasanya akan terpancing untuk membalas dengan tindakan :
-1. Masuk lagi berlawanan
-2. Tambah lot 
-3. Ikut Berita atau data ekonomi
+* **3-Kesalahan Trader:**  
+Disaat kita Cut Loss atau Stop Loss kita kena kita biasanya akan terpancing untuk membalas dengan tindakan:
+-Masuk lagi berlawanan
+-Tambah lot 
+-Ikut Berita atau data ekonomi
 
 Biasanya disaat seperti itu nalar kita sdh menipis yang ada adalah emosi. Hindari mengambil keputusan di saat emosi karena tingkat keberhasilan sangat kecil. Seperti berkelahi orang yg emosional biasanya akan mudah dikalahkan. Tenangkan diri kita ingat besok market tetap ada.  
 
