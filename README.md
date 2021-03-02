@@ -13,8 +13,11 @@ Coba anda ambil coin dan lempar satu sisi kita ambil buy satu sisi kita ambil se
 
 * **3-Kesalahan Trader:**  
 Disaat kita Cut Loss atau Stop Loss kita kena kita biasanya akan terpancing untuk membalas dengan tindakan:
+
 -Masuk lagi berlawanan
+
 -Tambah lot 
+
 -Ikut Berita atau data ekonomi
 
 Biasanya disaat seperti itu nalar kita sdh menipis yang ada adalah emosi. Hindari mengambil keputusan di saat emosi karena tingkat keberhasilan sangat kecil. Seperti berkelahi orang yg emosional biasanya akan mudah dikalahkan. Tenangkan diri kita ingat besok market tetap ada.  
