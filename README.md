@@ -532,5 +532,144 @@ Belum lagi Setan lewat dalam trading 😁 tau maksud setan lewat? Ada satu hari 
 Semoga ulasan ini dapat meremain kita semua. Dan bagi yang kurang sepakat silakan diabaikan.
 
 
+* **40-Copy Trade:**
+Sore rekan rekan trader. Bagaimana Trading Minggu ini semoga lancar semua. Hari ini ada teman yang request untuk membahas CT atau copy Trade. Saya akan coba bahas hari ini. Tapi sebelumnya yang saya bahas ini tidak perlu dijadikan polemik atau perdebatan karena setiap hal selalu memiliki sudut pandangnya masing masing dan hari ini saya akan bahas dari sudut pandang saya pribadi dan jika dapat menambah wawasan maka baik jika dianggap tidak ada point value atau nilai juga gpp. 
+Sebelumnya bagi yang belum tau CT atau copy trade adalah suatu fasilitas yang diberikan broker tertentu dimana kita dapat mengcopy transaksi seseorang secara otomatis atau by system. Tentu dengan algoritma masing masing dan besaran uang jasa yg mungkin berbeda2 jika kita menggunakan fasilitas tersebut . 
+Jenis copy trade sendiri ada bermacam macam variatif pembagian hasil dan system ada yang disebut PAMM , social trade dan lain lain. 
+Pada prinsipnya seorang investor uangnya dimanage atau mengikuti transaksi yang dijalankan  seorang manager atau secara umum sering disebut pilot. 
+Apakah CT baik ? Kembali lagi ke sudut pandang . 
+
+-1. Bagi sebagian orang pasti akan mengatakan CT baik jika profit dan sebagian akan mengatakan tidak baik jika Loss. Ini yang sama sekali awam 
+-2. Sebagian akan mengatakan baik jika profit sebagian yg loss akan mengatakan CT tetap baik karena yang salah bukan CT nya tapi pilotnya. 
+-3. Sebagian yang suka belajar dan suka trading akan menghindari CT baik sebagai pilot atau Follower. 
+
+Saya termasuk yang No.3 
+Karena saya suka trading maka saya tidak akan pernah menjadi follower CT. 
+
+Bagaimana jika menjadi Pilot ? 
+Tidak juga sehebat apapun saya nanti. 
+
+Kenapa ? 
+
+-1. Kebetulan saya adalah trader lama yg tentu punya kepercayaan untuk trading sendiri dan menghasilkan sendiri jadi kurang tertarik menambah penghasilan dari menjadi pilot. 
+
+-2. Alasan kedua ini sedikit kontroversial, pernah saya katakan saya adalah ex gambler bukan sekedar gambler saya suka dengan hal hal yang filosifis jadi pada saat gambling pun saya coba memahami filosofi2 yang ada didalamnya dan saya menyimpulkan dalam dunia yang memiliki unsur spekulatif jangan pernah bergerak satu arah dalam waktu yang sama maka yang minoritas akan menang. 
+Logikanya bagaimana ? Sebenarnya sederhana coba lihat fakta boss lasvegas makin kaya atau pejudi yang makin kaya ? Jawabannya clear bos las vegas . Kenapa dia bisa kaya karena dia melawan pemain. Pemain lebih banyak atau boss nya yg lbh banyak ? Pasti pemain jadi jelas pemain yg lebih banyak itu melawan boss / bandar maka yg menang adalah cenderung bandar. Kembali ke CT . Bukankah prinsip CT adalah ramai2 berbarengan di posisi sama melawan bandar ? Kira2 siapa yang akan menang ? Jadi ini adalah penjelasan berdasarkan fenomena fakta. Penjelasan lain adalah yg sifatnya non teknis yaitu masalah keberuntungan . Percayakah kita kalau urusan mencari uang itu ada unsur nasib ? Kalau percaya maka CT menjadi beresiko. Bayangkan saya pilot yang ikut saya ratusan dari yang ratusan itu ternyata beberapa punya sifat jelek kalau habis profit uangnya bukan untuk yg positif mungkin untuk foya foya main pelacur dan hal hal negatif yang bisa menimbulkan nasib buruk kata kasarnya bawa Sial bukannya akan berdampak ke yang lain karena posisi tradingnya sama semua 😂. Sekali lagi ini ga perlu diperdebatkan karena sudut pandang pribadi. 
+
+-3. Apakah anda tau persis posisi broker yang ada CT nya sampai ke jeroan brokernya artinya penghasilan si Broker . Seberapa dalam anda tau ? Kenal boss nya ? Tau alur uangnya ? Walau dia mendeklarasikan sebagai ECN NDD apa pernah di tunjukkan alur kas nya ? Jika tidak bagaimana anda yakin broker tidak mengambil untung dari rugi nasabah ? Jika kebetulan broker CT tersebut mengambil untung dari ruginya trader apakah dia akan membiarkan pilot dewa diikuti ribuan orang yang jelas2 akan membuat dia rugi ? Apalagi broker free com free swap spread kecil jika anda percaya itu broker ECN NDD maka anda terlalu NAIF. 
+Tidak ada itu kawan bisnis itu selalu kejam jika saya broker tidak akan saya biarkan trader hebat mengeruk uang saya dengan ribuan followernya. Saya akan selalu punya cara untuk itu. Ini adalah cara pandang broker kita jangan terlalu polos come on. 
+
+Anda mungkin akan masuk wilayah antara percaya atau tidak dengan omongan saya. Tidak harus anda percaya tapi yg saya sampaikan adalah hal hal yg logis. 
+
+Pikirkan kemungkinan ini : 
+
+-1. Sebagai broker dengan persaingan yg begitu hebat saya akan menciptakan pilot . Pilot saya jika punya record bagus maka akan menciptakan follower banyak. Begitu follower banyak maka kita bisa tebak ujungnya. 
+
+-2. Saya sbg broker buka system untuk orang umum menjadi pilot setelah follower banyak dan cukup saya akan menghub sang pilot untuk negosiasi bagi hasil buat lah transaksi zonk. Ini bukan suudzon terhadap pilot tapi ini terjadi. Pemain lama akan paham permainan spt ini. Tapi sekali lagi saya beri catatan saya tidak mengatakan semua pilot hanya ini benar2 terjadi. 
+
+Dari semua ulasan sya diatas mari kita lihat fenomena yang baru2 ini terjadi. Percayakah anda seorang pilot yang dulu begitu hebat dengan record transaksi bagus tiba2 menjadi bodoh bahkan untuk recovery sedikit saja kelihatan tidak mampu ? Jika mmg dulu hebat mau segila apapun market pasti ada perbaikan signifikan . Ini makin nyusruk. Masuk akal ?
+
+Jadi untuk hal CT ini saya kembalikan kepada rekan2 semua saya tidak mengatakan baik juga tidak mengatakan buruk saya tidak melarang juga tidak menganjurkan. 
+Dan tidak ada tujuan saya mendeskreditkan siapapun dalam tulisan ini . Semoga ada manfaat jika tidak bermanfaat silakan abaikan. 
+
+
+** **41-Profit Ideal:**
+Dari kesimpulan sederhana diatas mungkin kita akan memunculkan pertanyaan. 
+
+-1. Berapa sih yang ideal ? 
+Menurut saya tidak ada patokan ideal semua kembali kepada 2 kondisi.
+a. Berapa anda puas
+b. Memungkinkah angka tersebut diberikan pasar . Jika mungkin knp tidak. 
+
+-2. Kalau gitu makin besar ya makin enak ? 
+Betul. Tapi saya menganalogikan pertanyaan ini dengan berburu di Hutan belantara. Mendapatkan 2 Rusa dengan mendapatkan 10 Rusa jelas enak 10 Rusa. Tapi harus diingat bahwa mendapatkan 2 Rusa jelas lebih kecil resiko di terkam binatang buas dibanding kita berlama2 dalam hutan berburu 10 Rusa. Maka hal ini balik lagi ke masing2 individu. 
+
+-3. Apa yang diperlukan untuk memenuhi target dalam trading ? 
+Senjata yang memadai, pengetahuan yang memadai dan disesuaikan. Kadang kita target 500 pips sebulan tapi senjata atau ilmu yg dipelajari hanya punya kemampuan 100 pips tanpa kita bertanya kepada si guru akhirnya ga sesuai dan ujung2nya kecewa. Atau sebaliknya kita belajar ilmu yg mendapatan besar tapi harapan kita kecil sehingga  profit dikit lepas. Lalu nunggu kok signalnya ga muncul2 ga sabaran akhirnya dipaksakan padahal ilmu yg dipelajari adalah ilmu hold salah kaprah spt ini sering terjadi. 
+
+Bagi yg mungkin bingung dgn uraian diaatas saya buat kesimpulan kira2 begini : 
+
+-1. Kita perlu menentukan target sasaran berapa pips dalam sebulan. Tujuannya apa ? Agar ada Rem untuk berhenti dan ada target untuk dikejar.
+
+-2. Dari target tersebut kita sesuaikan dengan strategi dan teknik yang ada. Pastikan strategi tsb sesuai nga dgn ekspektasi kita jgn terbalik2 strategi hold dibuat scalp atau sebaliknya.
+
+-3. Paham konsekuensi dari analogi berburu tadi. 
+
+Apakah ini retorika ? Tidak,  saya jalankan secara pribadi. Target saya tidak muluk saya hanya mencari **400** pips dlm sebulan diluar itu saya anggap bonus. Hanya akan transaksi sehari sekali dengan sasaran R : R 1 : 1 dan 100 pips. Maka target saya hanya 3 : 2 seminggu. Kebetulan minggu ini saya hit 210 pips pada selasa rabu kamis sudah lebih dari target maka jumat dengan market us libur saya ga akan paksakan untuk masuk pasar wong target saya sudah masuk. 
+
+
+** **42-Trader juga manusia:**
+
+
+
+-1. Tidak ada trader yang sempurna dan tidak pernah salah dalam trading. 
+Didalam dunia trading jangan pernah mengkultuskan siapapun mendewakan siapapun dalam arti menganggap bahwa setiap langkah dan prediksinya pasti benar. Tidak ada itu sekali lagi tidak ada. Warren Buffet saja bisa Rugi ( pernah saya share di FB ).  George soros pun pernah rugi besar. Apalagi hanya trader2 mau itu gelar master atau apapun. 
+
+-2. Pelajaran kedua , jika kita menemukan seorang mentor atau sumber signal yang akurat atau  memberi ketepatan terhadap sebuah trading lalu kita ikuti dan profit maka hindari yang namanya OVER Confident atau kelewat percaya diri yang dituangkan dalam peningkatan lot yang tidak rasional hal ini sangat berbahaya terkait point 1 diatas. 
+
+-3. Pelajaran ketiga, meningkatkan lot untuk mendapatkan keuntungan pada prinsipnya sah sah saja tapi harus diiringi dengan kesiapan. Apa yang dimaksud kesiapan ? Sebelum kita menekan tombol Buy Sell tanyakan dulu pada diri kita kalau berbalik seberapa siap . Bukan membayangkan berapa banyak yang di dapat jika benar. Sehingga kepanikan tidak terjadi dibelakang. Ingat sama seperti kehidupan sehari2 . Orang panik ga akan pernah menyelesaikan masalah malah makin memperburuk situasi. Begitu juga Trading. 
+
+-4. Pelajaran keempat jangan menambah posisi untuk harga mepet kecuali kita sangat yakin dengan keberuntungan kita kalau tidak penambahan posisi dengan harga mepet hanya akan menambah masalah baru dalam Trading.
+
+Dari kasus diatas sebenarnya kesimpulannya adalah klasik . Ada istilah dalam ilmu Trading yaitu " Plan Your Trade and Trade your Plan. 
+Yang ciptakan istilah itu bukan saya orang2 pendahulu dunia trading tapi kadang kita yang anggap remeh. 
+
+
+ ** **43-Konsistensi lagi:**
+ Gerakan gerakan harga seperti ini jarang sekali terjadi . Tapi walau terjadi sekali, bisa jadi efeknya merusak hasil sebulan .  
+
+Apa pelajaran yg bisa kita ambil : 
+
+-1. Kita tidak pernah bisa tau kapan harga akan seperti itu.
+
+-2. Tidak ada teknik apapun yang bisa memprediksi gerakan seperti itu. 
+
+-3. Kita mungkin tau trend tapi kita tidak pernah memperhitungkan koreksi sebesar itu. 
+
+-4. Tidak banyak yang memanfaatkan Sell segitu panjang tapi banyak yang Buy keseret segitu panjang karena semua orang sedang terbuai dengan kenaikan. Bahkan dunia banyak menulis angka 2000 . 
+
+
+Hal yang ingin saya sharingkan adalah bahwa kita sebagai trader kecil tidak akan pernah bisa mengalahkan pasar dari aspek prediksi. Teknik apapun. Kita akan lebih mudah menghasilkan profit dengan keteraturan maksud dari keteraturan ini adalah konsistensi. 
+
+Bayangkan jika setiap trading kita konsisten dengan R : R yg kita buat maka hal tsb tidak akan menjadi persoalan. 
+
+Kemudian hal lain sbg contoh konsistensi adalah kenaikan pair2 forex terhadap USD. Pada saat harga sudah bergerak panjang mulai banyak yg ragu mulai banyak yang tidak mau lagi OP searah padahal analisanya sdh benar mulai orang ngerem kenapa ? Karena merasa khawatir padahal kalau konsisten dengan R : R maka yg terburuk ya SL nya kena. Emang disaat lain ada jaminan SL ga kena. Tidak ada juga kan . Jadi Konsisten akan banyak menyelamatkan kita dalam Trading. Yang saya maksud dengan konsiten hari ini adalah kepada R : R yang teratur. 
+
+Semoga sharing ini bermanfaat. Saya akan lampirkan contoh transaksi dengan keteraturan dibawah ini. Tidak perlu dibahas tekniknya tapi keteraturannya. 
+
+ 
+** **44-Mindset Prediksi adalah salah besar:**
+Perbedaan cara pandang ada pada :
+Mayoritas saya lihat mindsetnya adalah PROFIT DIDAPAT DARI KEMAMPUAN PREDIKSI PASAR terutama Teknik Indikator , Fundamental intinya sesuatu yg bisa digunakan untuk memprediksi pasar. 
+
+Sedangkan saya Mindsetnya berbeda bagi saya tidak ada satu indikator pun yg bisa membantu untuk profit terus terusan jadi saya tidak punya ketertarikan lagi untuk mengexplore indikator. Yang perlu terus saya pikirkan adalah pada saat sebuah indikator salah saya mau apa . 
+
+Sederhananya begini 
+
+-1. Saya meyakini tidak ada indikator yang sempurna. 
+
+-2. Karena tidak ada yg sempurna saya bisa loss. 
+
+-3. Karena bisa loss maka saya mau pakai indikator apapun sama.
+
+-4. Karena bisa loss maka saya tidak membiarkan loss saya besar. 
+
+-5. Jika loss kecil saya tutupnya gampang. 
+
+-6. Saya tidak pernah berharap setiap action saya benar. 
+
+-7. Saya hanya berharap indikator saya lbh banyak benar dari pada salah. 
+
+Dari kondisi itu saya ga pernah pusing dengan pertanyaan . Ini harga bisa sampai berapa  ? Percaya nga pertanyaan ini siapapun sulit jawab karena market itu dinamis. Kalaupun ada yg jawab benar itu hanya kebetulan menurut saya. 
+
+Inti sharing ini adalah jangan pernah berpikir menaklukkan pasar dengan analisa yg tepat karena " analisa & prediksi tepat " terus itu ga ada . Coba googling pakai keyword Geroge Soros Loss atau Warren Buffet Loss. Akan keluar itu beritanya. Berarti dewa investasi aja bisa salah apalagi kita. 
+
+Jadi maksudnya bagaimana? 
+Jadikan indikator dan teknis sebagai instrumen kita untuk mengambil keputusan Buy atau Sell. Setelah itu ciptakan sebuah system dgn hukum probabilitas untuk menaklukkan pasar jangan andalkan prediksi pasar dan nebak2 harga akan kemana. Menurut saya itu Sulit. 
+
+
+** **45-5 Hal Jangan:**
+
+
 
 
