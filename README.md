@@ -573,7 +573,7 @@ Jadi untuk hal CT ini saya kembalikan kepada rekan2 semua saya tidak mengatakan 
 Dan tidak ada tujuan saya mendeskreditkan siapapun dalam tulisan ini . Semoga ada manfaat jika tidak bermanfaat silakan abaikan. 
 
 
-** **41-Profit Ideal:**
+* **41-Profit Ideal:**
 Dari kesimpulan sederhana diatas mungkin kita akan memunculkan pertanyaan. 
 
 -1. Berapa sih yang ideal ? 
@@ -598,7 +598,7 @@ Bagi yg mungkin bingung dgn uraian diaatas saya buat kesimpulan kira2 begini :
 Apakah ini retorika ? Tidak,  saya jalankan secara pribadi. Target saya tidak muluk saya hanya mencari **400** pips dlm sebulan diluar itu saya anggap bonus. Hanya akan transaksi sehari sekali dengan sasaran R : R 1 : 1 dan 100 pips. Maka target saya hanya 3 : 2 seminggu. Kebetulan minggu ini saya hit 210 pips pada selasa rabu kamis sudah lebih dari target maka jumat dengan market us libur saya ga akan paksakan untuk masuk pasar wong target saya sudah masuk. 
 
 
-** **42-Trader juga manusia:**
+* **42-Trader juga manusia:**
 
 
 
@@ -615,7 +615,7 @@ Dari kasus diatas sebenarnya kesimpulannya adalah klasik . Ada istilah dalam ilm
 Yang ciptakan istilah itu bukan saya orang2 pendahulu dunia trading tapi kadang kita yang anggap remeh. 
 
 
- ** **43-Konsistensi lagi:**
+ * **43-Konsistensi lagi:**
  Gerakan gerakan harga seperti ini jarang sekali terjadi . Tapi walau terjadi sekali, bisa jadi efeknya merusak hasil sebulan .  
 
 Apa pelajaran yg bisa kita ambil : 
@@ -638,7 +638,7 @@ Kemudian hal lain sbg contoh konsistensi adalah kenaikan pair2 forex terhadap US
 Semoga sharing ini bermanfaat. Saya akan lampirkan contoh transaksi dengan keteraturan dibawah ini. Tidak perlu dibahas tekniknya tapi keteraturannya. 
 
  
-** **44-Mindset Prediksi adalah salah besar:**
+* **44-Mindset Prediksi adalah salah besar:**
 Perbedaan cara pandang ada pada :
 Mayoritas saya lihat mindsetnya adalah PROFIT DIDAPAT DARI KEMAMPUAN PREDIKSI PASAR terutama Teknik Indikator , Fundamental intinya sesuatu yg bisa digunakan untuk memprediksi pasar. 
 
@@ -668,8 +668,39 @@ Jadi maksudnya bagaimana?
 Jadikan indikator dan teknis sebagai instrumen kita untuk mengambil keputusan Buy atau Sell. Setelah itu ciptakan sebuah system dgn hukum probabilitas untuk menaklukkan pasar jangan andalkan prediksi pasar dan nebak2 harga akan kemana. Menurut saya itu Sulit. 
 
 
-** **45-5 Hal Jangan:**
+* **45-5 Hal Jangan:**
+
+-1. Jangan Trading dengan dana pas pasan: Transaksi dgn dana pas pasan membuat kita profit sedikit loss banyak
+
+-2. Jangan Takut Loss: Takut Loss adalah biang kerok loss
+
+-3. Jangan dengar kiri kanan: Omongan orang akan merusak planning kita
+
+-4. Jangan analisa setelah OP: Analisa setelah OP juga merusak planning kita. Ditambah resiko overtrade. Emosi juga sering diobok2
+
+-5. Jangan Tabu dengan Stop Loss: Ingat pasar tidak ada dewa tidak ada yang pasti 100% jika tabu dengan stoploss maka potensi loss besar akan lebih besar. Ingat loss adalah luka semakin kecil luka obatnya sedikit semakin besar luka obatnya banyak
+
+* **46-Fundamental Lagi:**
+-1. Fundamental kurang cocok ( bukan tidak cocok ) untuk trading jangka pendek.
+
+-2. Kita kadang terlambat mendapatkan informasi sehingga setelah sampai di kita harga sudah bergerak duluan.
+
+-3. Fundamental yang bagus adalah fundamental yang sifatnya data dan fakta bukan bersumber dari asumsi atau omongan orang misalnya citibank menyatakan harga emas akan ke xxxx. Atau setelah sebuah berita ada tulisan dibelakangnya . Mr x said atau menurut tuan X. Fundamental news seperti ini jangan terlalu dipercaya. 
+
+-4. Fundamental news yang dari data ekonomi jangan diikuti langsung saat rilis karena prinsip trading yg aman adalah tidak ada hal yang terlalu gampang atau too good to be true ( artinya harus pahami secara global setiap data maupun kebiasaan data ini menipu ). Hal ini sudah pernah saya bahas di channel ini silakan dicari. 
+
+-5. Jika kita memiliki MM dan trading plan berdasarkan hukum probabilitas yang sudah teruji maka tidak masalah mengabaikan fundamental. 
+
+Kesimpulan : 
+
+-1. Kenali fundamental yg sifatnya fakta dan rumors.
+
+2. Fundamental condong untuk transaksi long term.
+3. 
+4. Tidak perlu khawatir jika anda memiliki trading plan dan MM ketat yang teruji. 
 
 
 
+* **47-News - Korelasi - Konfirmasi - Ikut:**
+Sebuah berita keluar kita kaitkan dengan usd korelasinya akan melemah atau menguat kemudian kita tunggu apakah dollar index mengkonfirmasi melemah atau menguat dollar index nya jika sesuai maka kita bisa ikut. Pola ini tidak akan 100 % khususnya pada saat rilis data ekonomi seperti NFP , GDP dan lain2 tapi 80 % akan bekerja silakan di uji
 
